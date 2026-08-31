@@ -1,7 +1,7 @@
 {
   "name": "Lawn Weekend Command Centre",
   "short_name": "Lawn Planner",
-  "description": "Weather-aware Wintergreen Couch weekend lawn planner",
+  "description": "Annual weather-aware Wintergreen Couch lawn planner",
   "id": "./",
   "start_url": "./index.html",
   "scope": "./",
