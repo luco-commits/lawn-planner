@@ -8,6 +8,6 @@ Required files:
 - lawn-icon-192.png
 - lawn-icon-512.png
 
-The weekly schedule uses a Done button on each task. Selecting Done turns that task green. Selecting Done again returns it to its original state.
+The opening Spring weeks account for an overdue mow, existing broadleaf weeds and existing nutgrass. The remaining schedule provides year-round seasonal maintenance and weed prevention.
 
 After GitHub Pages redeploys, open the HTTPS address in Chrome on Android and refresh. Remove the old Home Screen shortcut, then select Install app or Add to Home screen again.
